@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "SBSTContentJustification classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSNavigationTabTag",
+	"commentStamp" : "",
+	"super" : "SBSUnorderedListTag",
+	"traitcomposition" : "SBSTContentJustification",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core-Base"
+}

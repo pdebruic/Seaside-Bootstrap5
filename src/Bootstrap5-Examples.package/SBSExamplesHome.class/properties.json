@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSRootComponent",
+	"category" : "Bootstrap5-Examples-Home",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"browser",
+		"displayIntro"
+	],
+	"name" : "SBSExamplesHome",
+	"type" : "normal"
+}

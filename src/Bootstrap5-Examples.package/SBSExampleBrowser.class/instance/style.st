@@ -1,0 +1,4 @@
+hooks
+style
+
+	^currentExample style

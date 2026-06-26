@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSGenericTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSLayoutTag",
+	"type" : "normal"
+}

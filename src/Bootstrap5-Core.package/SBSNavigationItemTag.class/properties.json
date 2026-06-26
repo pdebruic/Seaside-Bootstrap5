@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "SBSTActiveStyled classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSNavigationItemTag",
+	"commentStamp" : "",
+	"super" : "SBSListItemTag",
+	"traitcomposition" : "SBSTActiveStyled",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core-Base"
+}

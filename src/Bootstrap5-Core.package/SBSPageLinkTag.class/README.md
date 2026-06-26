@@ -1,0 +1,1 @@
+A page link for Bootstrap pagination

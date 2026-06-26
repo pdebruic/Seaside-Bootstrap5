@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "SBSTContextualStyled classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"navigationBarTag"
+	],
+	"name" : "SBSNavbarBackground",
+	"commentStamp" : "",
+	"super" : "Object",
+	"traitcomposition" : "SBSTContextualStyled",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core-Utilities"
+}

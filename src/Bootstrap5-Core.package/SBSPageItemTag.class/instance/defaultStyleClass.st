@@ -1,0 +1,4 @@
+defaults
+defaultStyleClass
+
+	^'page-item'

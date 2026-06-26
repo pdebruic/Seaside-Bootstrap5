@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAHtmlCanvas",
+	"category" : "Bootstrap5-Core-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSHtmlCanvas",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+defaults
+defaultStyleClass
+
+	^'tab-content'

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSButtonGroupTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSButtonToolbarTag",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "SBSTContextualStyled classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSActionableBadgeTag",
+	"commentStamp" : "",
+	"super" : "SBSAnchorTag",
+	"traitcomposition" : "SBSTContextualStyled",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core-Base"
+}

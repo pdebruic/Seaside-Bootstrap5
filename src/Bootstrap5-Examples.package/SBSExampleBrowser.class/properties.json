@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "Bootstrap5-Examples-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentExample"
+	],
+	"name" : "SBSExampleBrowser",
+	"type" : "normal"
+}

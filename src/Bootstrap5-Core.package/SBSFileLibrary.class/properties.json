@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "Bootstrap5-Core-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSFileLibrary",
+	"type" : "normal"
+}

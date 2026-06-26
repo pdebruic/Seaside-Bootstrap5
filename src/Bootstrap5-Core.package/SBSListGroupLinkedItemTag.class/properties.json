@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "SBSTContextualStyled classTrait + SBSTActiveStyled classTrait + SBSTContentJustification classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSListGroupLinkedItemTag",
+	"commentStamp" : "",
+	"super" : "SBSAnchorTag",
+	"traitcomposition" : "SBSTContextualStyled + SBSTActiveStyled + SBSTContentJustification",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core-Base"
+}

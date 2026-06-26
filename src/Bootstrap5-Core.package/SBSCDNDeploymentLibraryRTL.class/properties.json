@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSCDNDeploymentLibrary",
+	"category" : "Bootstrap5-Core-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSCDNDeploymentLibraryRTL",
+	"type" : "normal"
+}

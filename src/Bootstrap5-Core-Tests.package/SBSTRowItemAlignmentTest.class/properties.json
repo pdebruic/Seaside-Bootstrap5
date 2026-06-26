@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSAbstractCanvasBrushTest",
+	"category" : "Bootstrap5-Core-Tests-Traits",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSTRowItemAlignmentTest",
+	"type" : "normal"
+}

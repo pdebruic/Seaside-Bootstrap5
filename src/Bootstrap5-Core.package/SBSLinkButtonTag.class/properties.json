@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "SBSTContextualStyled classTrait + SBSTSizeStyled classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"type"
+	],
+	"name" : "SBSLinkButtonTag",
+	"commentStamp" : "",
+	"super" : "SBSAnchorTag",
+	"traitcomposition" : "SBSTContextualStyled + SBSTSizeStyled",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAAnchorTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSAnchorTag",
+	"type" : "normal"
+}

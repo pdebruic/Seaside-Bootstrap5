@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAImageTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSImageTag",
+	"type" : "normal"
+}

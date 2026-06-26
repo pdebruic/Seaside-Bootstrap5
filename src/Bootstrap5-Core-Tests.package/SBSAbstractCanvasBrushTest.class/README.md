@@ -1,0 +1,1 @@
+Common superclass for Bootstrap4 canvas based tests

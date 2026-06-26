@@ -1,0 +1,1 @@
+An image overlay for a Bootstrap card

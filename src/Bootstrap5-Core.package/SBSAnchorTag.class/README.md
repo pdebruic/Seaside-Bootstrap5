@@ -1,0 +1,1 @@
+Common superclass for link based boostrap tags

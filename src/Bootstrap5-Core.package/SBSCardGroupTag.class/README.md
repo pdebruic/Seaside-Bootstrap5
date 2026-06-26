@@ -1,0 +1,1 @@
+Similar to a card deck. The only difference is that the card group removes left and right margins between each card.

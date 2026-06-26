@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSFileLibrary",
+	"category" : "Bootstrap5-Core-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSCDNDeploymentLibrary",
+	"type" : "normal"
+}

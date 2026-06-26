@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "SBSTContentJustification classTrait + SBSTRowItemAlignment classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSLayoutRowTag",
+	"commentStamp" : "",
+	"super" : "SBSLayoutTag",
+	"traitcomposition" : "SBSTContentJustification + SBSTRowItemAlignment",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Bootstrap5-Core-Base"
+}

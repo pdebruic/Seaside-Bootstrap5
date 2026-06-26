@@ -1,0 +1,3 @@
+defaults
+defaultStyleClass 
+	^'toast-header'

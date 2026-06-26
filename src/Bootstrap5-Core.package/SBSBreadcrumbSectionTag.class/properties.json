@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSListItemTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSBreadcrumbSectionTag",
+	"type" : "normal"
+}

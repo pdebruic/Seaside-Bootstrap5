@@ -1,0 +1,18 @@
+rendering
+renderExampleOn: html
+
+	html paragraph primaryText with: 'Primary'.
+	html paragraph successText  with: 'Success'.
+	html paragraph secondaryText with: 'Secondary'.
+	html paragraph warningText with: 'Warning'.
+	html paragraph dangerText with: 'Danger'.
+	html paragraph infoText with: 'Info'.
+	html paragraph darkText with: 'Dark'.
+	html paragraph
+			lightText
+			darkBackground
+			with: 'Light'.
+	html paragraph
+			whiteText
+			darkBackground
+			with: 'White'

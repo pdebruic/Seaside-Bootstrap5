@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSCardTitleTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSCardSubtitleTag",
+	"type" : "normal"
+}

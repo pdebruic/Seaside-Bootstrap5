@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSBootstrapExample",
+	"category" : "Bootstrap5-Examples-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSColorExample",
+	"type" : "normal"
+}

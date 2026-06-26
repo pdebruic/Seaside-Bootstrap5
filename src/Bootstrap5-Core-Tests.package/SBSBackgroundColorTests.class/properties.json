@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSAbstractCanvasBrushTest",
+	"category" : "Bootstrap5-Core-Tests-Other",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SBSBackgroundColorTests",
+	"type" : "normal"
+}
