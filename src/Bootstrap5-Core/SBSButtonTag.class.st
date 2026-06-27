@@ -118,6 +118,15 @@ SBSButtonTag >> initialize [
 	self sizeStyle: self defaultStyleClass
 ]
 
+{ #category : 'options' }
+SBSButtonTag >> offCanvasTarget: aString [
+
+	self
+		toggleOffCanvas;
+		dataAttributeAt: 'bs-target' put: aString;
+		ariaControls: aString
+]
+
 { #category : 'private' }
 SBSButtonTag >> resetType [
 	type := nil
