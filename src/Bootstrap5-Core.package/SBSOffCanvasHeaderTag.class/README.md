@@ -1,0 +1,1 @@
+part of the structure of an offcanvas component
