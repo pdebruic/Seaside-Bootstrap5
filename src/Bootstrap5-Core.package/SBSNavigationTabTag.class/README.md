@@ -1,1 +1,0 @@
-I'm a Bootstrap navigation tab item.

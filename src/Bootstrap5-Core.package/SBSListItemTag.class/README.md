@@ -1,1 +1,0 @@
-A common superclass for list item based Bootstrap tags

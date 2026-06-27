@@ -1,1 +1,0 @@
-A Bootstrap accordion component

@@ -1,1 +1,0 @@
-Clickable navigation bar brand

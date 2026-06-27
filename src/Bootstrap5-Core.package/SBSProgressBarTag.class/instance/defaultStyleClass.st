@@ -1,4 +1,0 @@
-defaults
-defaultStyleClass
-
-	^'progress-bar'

@@ -1,1 +1,0 @@
-Footer for Bootstrap card

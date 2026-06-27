@@ -1,4 +1,0 @@
-defaults
-defaultModifier
-
-	^'outline'

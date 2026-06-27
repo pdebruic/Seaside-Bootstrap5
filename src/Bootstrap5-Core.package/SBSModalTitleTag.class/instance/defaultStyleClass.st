@@ -1,3 +1,0 @@
-defaults
-defaultStyleClass
-	^'modal-title'

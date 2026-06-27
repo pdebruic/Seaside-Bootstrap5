@@ -1,1 +1,0 @@
-I'm a Bootstrap tab pane

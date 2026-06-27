@@ -1,1 +1,0 @@
-A progress, parent element of a progress bar

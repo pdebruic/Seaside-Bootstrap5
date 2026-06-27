@@ -1,1 +1,0 @@
-Creates a masonry-like grid of cards (like pinterest). The layout will automatically adjust as you insert more cards.

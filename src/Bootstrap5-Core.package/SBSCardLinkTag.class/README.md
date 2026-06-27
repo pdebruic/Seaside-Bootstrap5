@@ -1,1 +1,0 @@
-Links on Bootstrap cards

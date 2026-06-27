@@ -1,1 +1,0 @@
-Bootstrap Navigation bar toggler

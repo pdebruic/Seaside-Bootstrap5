@@ -1,1 +1,0 @@
-Provides a grid of cards that are of equal height and width. The layout will automatically adjust as you insert more cards.

@@ -1,4 +1,0 @@
-options
-beDisabled
-
-	self disabled

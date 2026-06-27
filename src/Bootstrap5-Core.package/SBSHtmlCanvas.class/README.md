@@ -1,1 +1,0 @@
-An HTML Canvase for Seaside Bootstrap

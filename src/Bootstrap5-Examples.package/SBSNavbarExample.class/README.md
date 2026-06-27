@@ -1,1 +1,0 @@
-Example for a Bootstrap navigation bar

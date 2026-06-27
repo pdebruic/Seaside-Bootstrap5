@@ -1,1 +1,0 @@
-Content delivery network (CDN) based deployment library with right-to-left (RTL) support

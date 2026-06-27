@@ -1,3 +1,0 @@
-defaults
-defaultStyleClass 
-	^'offcanvas-title'

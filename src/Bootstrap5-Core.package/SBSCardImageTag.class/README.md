@@ -1,1 +1,0 @@
-An image on top of a Boostrap card

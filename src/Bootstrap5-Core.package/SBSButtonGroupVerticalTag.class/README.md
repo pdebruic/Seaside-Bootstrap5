@@ -1,1 +1,0 @@
-Vertical button group for Bootstrap

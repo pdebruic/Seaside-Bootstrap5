@@ -1,9 +1,0 @@
-{
-	"commentStamp" : "",
-	"classinstvars" : [ ],
-	"category" : "Bootstrap5-Core-Traits",
-	"instvars" : [
-		"activeStyle"
-	],
-	"name" : "SBSTActiveStyled"
-}

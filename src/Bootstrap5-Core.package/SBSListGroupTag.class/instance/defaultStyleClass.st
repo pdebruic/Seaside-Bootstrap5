@@ -1,4 +1,0 @@
-defaults
-defaultStyleClass
-
-	^'list-group'

@@ -1,4 +1,0 @@
-accessing
-navigationBarTag
-
-	^navigationBarTag

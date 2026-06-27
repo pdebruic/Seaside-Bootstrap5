@@ -1,1 +1,0 @@
-A boostrap alert link

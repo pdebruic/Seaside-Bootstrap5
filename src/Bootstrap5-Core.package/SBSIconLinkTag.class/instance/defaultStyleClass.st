@@ -1,3 +1,0 @@
-defaults
-defaultStyleClass 
-	^'icon-link'

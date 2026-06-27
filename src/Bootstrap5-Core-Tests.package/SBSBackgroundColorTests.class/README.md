@@ -1,1 +1,0 @@
-Tests for specific background colors
